@@ -11,3 +11,5 @@ Output cell data in a structured format
 
 This project acts as a base-phase mini spreadsheet language, enabling experimentation with formula parsing, OOP design, and custom command execution. It will soon be modular and extendable (similar to importable built-in module), allowing future enhancements like SUM, AVERAGE, and file import/export.
 
+UPADATED: INCLUDES SUM
+
